@@ -1,7 +1,6 @@
 Nama Lengkap: Tiara Zetira
 NIM: 105223041
 Kelas: [CS6]
-Instansi: Universitas Pertamina
 
 CampusInfo App
 Aplikasi CampusInfo adalah projek mini Android yang dibina untuk memenuhi 

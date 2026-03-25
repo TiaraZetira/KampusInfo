@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.tiara.kampusinfo.HomeFragment"
+        android:label="Home" />
+
+    <fragment
+        android:id="@+id/scheduleFragment"
+        android:name="com.tiara.kampusinfo.ScheduleFragment"
+        android:label="Jadwal" />
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.tiara.kampusinfo.ProfileFragment"
+        android:label="Profil" />
+
+    <fragment
+        android:id="@+id/announcementDetailFragment"
+        android:name="com.tiara.kampusinfo.AnnouncementDetailFragment"
+        android:label="Detail" />
+</navigation>
